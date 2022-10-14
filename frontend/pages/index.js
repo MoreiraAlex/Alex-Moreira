@@ -15,7 +15,7 @@ export default function Home() {
         <h1 className={styles.title}>Pagina em manuntenção!</h1>
 
         <p className={styles.description}>
-          Confira meus outros projetos no <a href="https://github.com/MoreiraAlex" target="_blank">Github</a>
+          Confira meus outros projetos no <a href="https://github.com/MoreiraAlex" target="_blank"  rel="noopener noreferrer">Github</a>
         </p>
       </main>
 
